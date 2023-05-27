@@ -2,7 +2,7 @@ clc
 close all
 clear
 % Github Token Acesss
-%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
+% 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
 %% Definição de parâmetros (Etapa de escolha dos parâmetros a serem adotados no simulador.)
 % Parâmetros Físicos (Valores usuais na física/engenharia)
 c = physconst('LightSpeed'); % velocidade da luz
