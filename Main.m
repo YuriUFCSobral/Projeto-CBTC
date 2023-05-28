@@ -1,7 +1,7 @@
 clc
 close all
 clear
-% Github Token Acesss iiii
+% Github Token Acesss
 
 %% Definição de parâmetros (Etapa de escolha dos parâmetros a serem adotados no simulador.)
 % Parâmetros Físicos (Valores usuais na física/engenharia)
